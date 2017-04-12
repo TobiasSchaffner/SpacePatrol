@@ -1,0 +1,20 @@
+
+TODO Synchronisation reicht eventuell nicht mehr 100% siehe TODO in SpaceScreen.java (maybe fixed by removing removing getters for values and keys in connection)
+
+TODO Screen für die Optionen. Um Änderungen zB der Auflösung umzusetzen müsste der Client neu gestartet werden. (ist das aus der Applikation raus möglich?
+
+
+TODO Serverseitiges persistentes speichern aller relevanten Daten um den Server neu Starten zu können.
+
+
+TODO Clientseitiges persistentes speichern der Optionen.
+
+
+TODO für Animationen wäre es schön wenn man im Atlas sowas wie ne Ringliste hätte die man dann clientseitig an den Player hängen kann.
+TODO momentan muss man dafür (siehe explosion) einen Counter mitziehen um pro frame das richtige Bild zu haben
+
+
+TODO Verschlüsseln der Verbindung symmetrisch mit dem Passwort des Clients. Überlegenswert wie man die Registrierung umsetzt
+
+
+TODO Die Gewünschten Variablen bzw Eigenschaften der Schiffe hier Sammeln (Rüstung etc)
